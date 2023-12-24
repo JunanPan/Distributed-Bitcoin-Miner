@@ -1,4 +1,4 @@
-A Distributed Bitcoin Miner By LSP Net Protocol
+## A Distributed Bitcoin Miner By LSP Net Protocol
 
 (NOTE: This is a project of cmu/440 but core part of lsp implementation and mining algorithm has been deleted to avoid plagiarize.)
 
